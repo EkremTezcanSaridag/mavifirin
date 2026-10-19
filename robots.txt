@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Yayına aldıktan sonra gerçek sitemap URL adresini ekleyin.
