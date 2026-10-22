@@ -88,7 +88,7 @@
 
 * **H02-S1 | Bağımsız Görev:**
   * **Soru:** Ana sayfa başlığını daha bilgilendirici yazın.
-  * **Cevap:** `index.html` dosyasındaki başlık `<h1>Mavi Fırın – Günlük Taze Ekmek</h1>` olarak güncellenmiştir.
+  * **Cevap:** `index.html` dosyasındaki başlık `<h1>Mavi Fırın | Eskişehir Taze Ekmek</h1>` olarak güncellenmiştir. Ayrıca hero bölümüne `<a class="btn" href="urunler.html">Ürünleri Gör</a>` ve `<a class="btn" href="hakkimizda.html">Hakkımızda</a>` butonları eklenmiştir.
 
 * **H02-S2 | Bağımsız Görev:**
   * **Soru:** Hakkımızda bağlantısı ekleyin.
